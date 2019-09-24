@@ -1,7 +1,0 @@
-com\james\cache\basic\Basic.class
-com\james\cache\utils\JedisUtils.class
-com\james\cache\main\MainTestRedPack.class
-com\james\cache\redpack\GenRedPack$1.class
-com\james\cache\redpack\GetRedPack.class
-com\james\cache\redpack\GenRedPack.class
-com\james\cache\redpack\GetRedPack$1.class
